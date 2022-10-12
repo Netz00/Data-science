@@ -1,2 +1,4 @@
-# Uvod_u_podatkovnu_znanost
-Laboratorijske vježbe iz kolegija uvod u podatkovnu znanost
+# Uvod u podatkovnu znanost
+💡 Ovaj repozitorij sadržava izvješća obrađenih laboratorijski vježbi sa kolegija uvod u podatkovnu znanost 2022/2023 godine.
+
+[Lab 1 - **Uvod u Python**](labs/lab0.ipynb)
