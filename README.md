@@ -8,3 +8,5 @@
 [Lab 3 - **Pandas - Join and Reshape Data**](labs/lab3/lab3.ipynb)
 
 [Lab 4 - **Vizualizacija podataka**](labs/lab4/lab4.ipynb)
+
+[Lab 5 - **Vizualizacija podataka 2**](labs/lab5/lab5.ipynb)
