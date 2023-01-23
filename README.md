@@ -10,3 +10,5 @@
 [Lab 4 - **Vizualizacija podataka**](labs/lab4/lab4.ipynb)
 
 [Lab 5 - **Vizualizacija podataka 2**](labs/lab5/lab5.ipynb)
+
+[Seminar - **Analiza podataka o zaposlenicima FESB-a**](labs/seminar/DataScienceProject.ipynb)
