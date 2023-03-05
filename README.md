@@ -1,5 +1,8 @@
 # Uvod u podatkovnu znanost
-💡 Ovaj repozitorij sadržava izvješća obrađenih laboratorijski vježbi sa kolegija uvod u podatkovnu znanost 2022/2023 godine.
+
+💡 Repozitorij sa izvješćima obrađenih laboratorijski vježbi i seminarskim radom kolegija *Uvod u podatkovnu znanost*, zimski semestar 2022/2023 godine.
+
+## Laboratorijske vježbe
 
 [Lab 1 - **Uvod u Python**](labs/lab1/lab0.ipynb)
 
@@ -11,4 +14,7 @@
 
 [Lab 5 - **Vizualizacija podataka 2**](labs/lab5/lab5.ipynb)
 
-[Seminar - **Analiza podataka o zaposlenicima FESB-a**](labs/seminar/DataScienceProject.ipynb)
+
+## Seminarski rad
+
+[**Analiza podataka o zaposlenicima FESB-a**](seminar/DataScienceProject.ipynb)
